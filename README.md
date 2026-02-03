@@ -46,8 +46,7 @@ The focus of this project is on statistical rigor, reproducibility, and clear bu
 
 ---
 
-### 2) **PROJECT NAME #2**
-## Data Visualization: Income, Poverty, and Unemployment Patterns
+### 2) **Data Visualization: Income, Poverty, and Unemployment Patterns**
 **How do income and poverty levels relate to unemployment across U.S. states?**
 
 ---
