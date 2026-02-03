@@ -10,22 +10,36 @@ Below are three projects I’m most proud of right now. Each includes a short ov
 
 ---
 
-### 1) **PROJECT NAME #1**
-**One-liner:** What it does in one sentence.
+### 1) **Turning Churn into Opportunity**
+**Do contract terms have an impact on customer churn?**
 
-**Summary:**  
-2–4 sentences describing the problem, what you built, and why it matters.  
-Mention the core outcome (dashboard, model, pipeline, app, automation, etc.).
+### Summary
 
-**Highlights**
-- ✅ Key result / metric / win (ex: “Improved X by 18%” or “Automated Y”)
-- ✅ Interesting technical detail (ex: “Feature engineering + model evaluation”)
-- ✅ Clean deliverable (ex: “Dashboard + documentation + reproducible code”)
+This project applies statistical analysis to a real telecommunications dataset to determine whether customer contract type is significantly associated with churn behavior. Using a Chi-Square Test of Independence and Cramér’s V effect size, the analysis demonstrates that month-to-month customers churn at substantially higher rates than long-term contract customers.
 
-**Tech Stack:** Python • Pandas • SQL • (add your tools)
+The focus of this project is on statistical rigor, reproducibility, and clear business interpretation rather than immediately defaulting to machine learning.
 
-**Repo:** https://github.com/YOUR-USERNAME/YOUR-REPO-1  
-**Demo (optional):** https://link-to-demo-or-screenshots
+---
+
+### Highlights
+
+- Cleaned and prepared ~7,000 customer records for analysis
+- Constructed contingency tables for categorical comparison
+- Performed Chi-Square statistical testing with assumption validation
+- Calculated Cramér’s V to measure practical effect size
+- Visualized churn rates across contract types
+- Translated statistical results into actionable business retention insight
+- Designed for full reproducibility inside a Jupyter Notebook
+
+---
+
+### Tech Stack
+
+- Python
+- Pandas
+- SciPy
+- Matplotlib
+- Jupyter Notebook
 
 ---
 
