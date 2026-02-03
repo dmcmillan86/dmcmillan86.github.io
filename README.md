@@ -15,9 +15,9 @@ Below are the featured projects I’m most proud of right now. Each includes a s
 
 ### Summary
 
-This project applies statistical analysis to a real telecommunications dataset to determine whether customer contract type is significantly associated with churn behavior. Using a Chi-Square Test of Independence and Cramér’s V effect size, the analysis demonstrates that month-to-month customers churn at substantially higher rates than long-term contract customers.
+This project applies statistical analysis to a telecommunications dataset to determine whether customer contract type is significantly associated with churn behavior. Using the Chi-Square Test of Independence and Cramér’s V effect size, my analysis demonstrates that month-to-month customers churn at substantially higher rates than long-term contract customers.
 
-The focus of this project is on statistical rigor, reproducibility, and clear business interpretation rather than immediately defaulting to machine learning.
+The focus of this project is on statistical rigor, reproducibility, and clear business interpretation.
 
 ---
 
