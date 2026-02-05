@@ -1,6 +1,6 @@
 
 
-# I’m David, a **B.S. in Data Analytics** graduate with over **17 years of industry experience across telecommunications, security, and utility services**. I build practical solutions at the intersection of data, automation, and systems—turning complex, real-world problems into clear insights, reproducible processes, and outcomes we can actually use.
+# I’m David, a **B.S. in Data Analytics** graduate with over 20 years experience in Telco, Utilities and Security. I build practical solutions at the intersection of data, automation, and systems—turning complex, real-world problems into clear insights, reproducible processes, and outcomes we can actually use.
 
 ---
 
